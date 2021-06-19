@@ -5,4 +5,4 @@
 ## Objective 🔑   
 To analyse and get more information on the American's favorite global cuisine.  
 
-## [Notebook]() 
+## [Notebook](https://github.com/lagom-QB/Food-World-Cup/blob/main/notebook/eda.ipynb) 
