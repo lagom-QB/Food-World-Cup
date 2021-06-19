@@ -5,3 +5,4 @@
 ## Objective 🔑   
 To analyse and get more information on the American's favorite global cuisine.  
 
+### [Notebook 📖](https://github.com/lagom-QB/Food-World-Cup/tree/main/notebook) 
